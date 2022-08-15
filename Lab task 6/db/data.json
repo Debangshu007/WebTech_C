@@ -1,0 +1,13 @@
+[
+  [
+    {
+      "name": "Debangshu Pal Sourav ",
+      "email": "sourov.debangshu@gmail.com",
+      "password": 123456789,
+      "gender": "male",
+      "type": "restaurantadmin",
+      "purl": "images/uploads/resturent.jpg",
+      "dob": "1998-02-18"
+    }
+  ]
+]
